@@ -30,3 +30,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 you need to run this command in terminal , then you can see the post .
 i'm using Axios so you need to install the axios in termil
 ### `npm i axios`
+
+API link
+### `http://localhost:3500/posts`
